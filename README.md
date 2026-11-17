@@ -25,3 +25,7 @@ uv sync
 ```
 
 Requires Python 3.10 or later.
+
+## License
+
+MIT License. Copyright (c) 2025-2026 RIKEN. See [LICENSE](LICENSE).
